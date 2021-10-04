@@ -1,0 +1,117 @@
+
+-- OK / KO
+OK : can easily fit in the script
+KO : cannot
+
+
+01 Anomalie bleue (00:00)
+02 Fou (03:50)
+03 Hématome (09:00)
+04 Submarine (12:40)
+05 L’équilibriste (17:25)
+06 Off to the Side (21:30)
+07 Peur des filles (25:57)
+08 Souffle au coeur (29:25)
+09 Tako Tsubo (33:10)
+10 Voodoo (33:53)
+11 Digital Sunset (38:07)
+12 Tombée pour la scène (41:27)
+13 Tant d’amour perdu (45:00)
+
+
+01. Reflection. Nos 3 & 4 (00:00)
+02. Synth Man. (02:21)
+03. Halcyon Age (05:04)
+04. Brown Study (08:18)
+05. Lonely Zone (feat Mellow Fellow, Ruru & Paul Cherry) (11:32)
+06. Above the Highway (feat Deem Spencer) (15:30)
+07. About the World (16:27)
+08. Moon Hits (19:00)
+09. Nice to See You (feat FLOOR CRY) (21:48)
+10. KW (24:50)
+11. Star Catcher (feat Chester Watson) (28:06)
+12. Précis (feat Fog Lake) (31:26)
+13. Set Piece (feat Sophie Meiers & Ivy Sole) (32:40)
+14. Wonderland (feat Jeremiah Jae) (35:54)
+15. From the Subway Train (38:32)
+16. Angel Youth (39:33)
+17. Yours Truly (feat Guilty Simpson, Quelle Chris & MED) (43:36)
+
+
+-- OK
+01. Anomalie bleue (00:00)
+02. Fou (03:50)
+
+-- KO
+01 Anomalie bleue (00:00)
+02 Fou (03:50)
+
+-- KO
+01  00:00  Reflection Nos 3 & 4
+02  02:21  Synth Man
+
+-> ajouter les points
+-- OK
+01. Reflection Nos 3 & 4 (00:00)
+02. Synth Man (02:21)
+
+-- OK Man.
+01. Reflection. Nos 3 & 4 (00:00)
+02. Synth Man. (02:21)
+
+-- OK []
+[00:00]  Reflection Nos. 3 & 4
+[02:21]  Synth Man
+
+-- OK 4:12 vs 04:12
+1. Tearjerker (0:00)
+2. The Reservoir (4:12)
+
+-- OK No-num
+Tearjerker (0:00)
+The Reservoir (4:12)
+
+-- KO
+[00:00] The Adults Are Talking
+[05:09] Selfless
+[08:50] Brooklyn Bridge to Chorus
+[12:45] Bad Decisions
+[17:38] Eternal Summer
+[23:54] At the Door
+[29:04] Why Are Sundays So Depressing
+[33:38] Not the Same Anymore
+[39:15] Ode to the Mets
+
+-- KO
+1. Intro~ 00:00
+2. ~Outro (feat. B) 02:31
+
+-- OK
+1. Intro~ (00:00)
+2. ~Outro (feat. B) (02:31)
+
+-- ?
+I Didn't Know (00:00)
+Left with a Gun (03:39)
+Don't Call My Name (08:04)
+Summer (12:14)
+Oracolo (16:43)
+Inside (20:58)
+Take My Time (26:00)
+Live by the Day (29:04)
+Mandala (34:47)
+I Won't Be There (40:33)
+
+
+Je Parle Francais (00:00)
+The Year After (03:55)
+Angel (11:05)
+Between The Buttons (17:11)
+Golden Times (28:34)
+Ddropp (31:45)
+Diamond Veins Feat Sarah Rebecca (37:17)
+Naked City (40:58)
+Olympic (48:22)
+Hush Hush (53:12)
+1979 (57:24)
+Lovin Feeling (01:04:30)
